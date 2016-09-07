@@ -1,4 +1,4 @@
 # test
-Git test for Ubuntu 14.04
+Git test for Ubuntu 16.04
 
-This test tree is not in use.
+Here are a few scipt files for admin maintenance.
